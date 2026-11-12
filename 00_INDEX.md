@@ -1,5 +1,5 @@
 # FaSi Claude Skills — Index
-Stand: 2026-03-23
+Stand: 2026-11-12
 
 ## Verfügbare Skills
 | Datei | Zweck | Nutzung |
@@ -17,3 +17,8 @@ Stand: 2026-03-23
 | ARCPY_REGELN.md | Kritische ArcPy-Regeln | Claude Code |
 | SWISS_NORMS.md | Normenreferenz-Sheet | Beide |
 | QA_CHECKLIST.md | QA vor Code-Ausgabe | Claude Code |
+| ch-redaktion/ | Redaktionssystem, `red:` / `red-test:`, K2-Grenzwerte (v2.2.0) | Skill |
+| sst-modus/ | Belegmodus `sst:` und Schreibmodus `kudf:` | Skill |
+
+`01_kudf_schreibmodus.md` ist durch `sst-modus/` (kudf) überholt und bleibt nur
+als Archivstand erhalten.
